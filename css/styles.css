@@ -21,3 +21,40 @@
     height: 300px;
     padding-top: 90px;
 }
+
+.container{
+    padding-top: 50px;
+    align-items: center;
+}
+
+.what{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#design{
+    text-align: center;
+}
+
+#d-content{
+    display: none;
+    text-align: center;
+}
+
+#development{
+    text-align: center;
+}
+
+#de-content{
+    display: none;
+    text-align: center;
+}
+
+#product{
+    text-align: center;
+}
+
+#p-content{
+    display: none;
+    text-align: center;
+}

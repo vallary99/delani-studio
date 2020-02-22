@@ -26,5 +26,9 @@ $(document).ready(function(){
     $("#p-content").hide();
     })
     
+    $(".table").hover(function(){
+        $(this).css("background-image", "/home/vallary/Documents/trial/images/h_img.jpg");
+        alert("DELANI STUDIO");
+      });   
    
 }) 

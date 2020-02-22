@@ -93,3 +93,7 @@ textarea{
     border: 1pt;
     display: inline-table;
 }
+
+.icons{
+    text-align: center;
+    margin-top: 50px;

@@ -73,3 +73,23 @@
     padding-top: 20px;
     text-align: center;
 }
+
+#form{
+    background-image: url(file:///home/vallary/Documents/trial/images/c_image.jpg);
+    text-align: center;
+    margin-top: 50px;
+}
+
+input{
+    background: none;
+    width: 480px;
+    border: none;
+}
+textarea{
+    background: none;
+}
+
+.border{
+    border: 1pt;
+    display: inline-table;
+}

@@ -58,3 +58,18 @@
     display: none;
     text-align: center;
 }
+
+.table{
+    margin-left: 60px;
+    position: relative;
+}
+
+.table img{
+    width: 280px;
+    height: 280px;  
+}
+
+.portfolio{
+    padding-top: 20px;
+    text-align: center;
+}

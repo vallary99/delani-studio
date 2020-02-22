@@ -1,0 +1,9 @@
+.intro{
+    color: white;
+    text-align: center;
+    background-image: url(file:///home/vallary/Desktop/ip-3/images/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 90px;
+}

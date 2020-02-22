@@ -24,5 +24,7 @@ $(document).ready(function(){
     $("#p-content").click(function(){
     $("#product").show();
     $("#p-content").hide();
-    }) 
+    })
+    
+   
 }) 

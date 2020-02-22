@@ -139,7 +139,26 @@
             </tr>
         </div>
 
-        
+        <div id="form">
+            <h5>CONTACT US</h5>
+            <form name="cForm" onsubmit="validation()" method="POST">
+
+                <div class="border">
+                    NAME<input id="name" type="text" name="fname" required>
+                </div>
+
+                <div class="border">
+                    E-MAIL<input id="mail" type="email" name="fmail" required>
+                </div>
+    
+                <br><br>
+                <label for="ftext"></label>
+                <textarea id="ftext" rows="10"  cols="100" placeholder="Your messege here..."></textarea>
+
+                <input type="submit" value="SUBMIT">
+            </form>
+
+        </div>
         
     <script src="js/jquery-3.4.1.js"></script>
     <script src="js/script.js"></script>
